@@ -49,6 +49,14 @@ text-align: center;
 
   float: right;
   
-  margin-right: 12px;
+  margin-left: 12px;
+  max-width: 50%;
+  width: 50%;
 
+}
+
+
+.map{
+    height: 50px;
+    width: 50px;
 }
