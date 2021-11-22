@@ -1,11 +1,11 @@
 form{
     box-sizing: border-box;
     background-color: #ffcc00;
-    border: black;
+    border: solid 3px;
     border-radius: 20px;
     padding-left: 52px;
    padding-right: 59px;
-   padding-top: 150px;
+   padding-top: 50px;
    width: 519px;
    height: 500px;
    display: flex;   
@@ -18,23 +18,32 @@ form{
 .form-nom{
     margin-top: 29px;
     font-size: 40px;
+    border: solid black ;
 }
 
 .form-email{
     margin-top: 29px;
     font-size: 40px;
-
+border: solid black ;
 }
 .button{
 
  margin-top: 29px;
  margin-bottom: 20px;
+ border-radius: 2px;
+ border: solid black;
 
 text-align: center;
 }
 .message{
-    margin-top: 29px;
+    margin-top: 20px;
+    border: solid black;
+ 
 }
+.contacter{
+    font-size: 35px;
+}
+
 
 .right{
 
