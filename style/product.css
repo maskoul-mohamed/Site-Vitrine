@@ -2,6 +2,7 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 header {
@@ -9,7 +10,7 @@ header {
     padding: 25px 10px;
   }
 
-  ul li {
+  .list{
       list-style: none;
       display: inline;
       padding: 20px;
@@ -25,9 +26,15 @@ header {
       margin-top: 5%;
       text-align: center;
     }
+   
+    .home-product {
+        margin-bottom: 5%;
+        color: orange;
+    }
 
 .product{
     margin-bottom: 2%;
+    font-size: 35px;
 }
 
 .product-1{
@@ -50,10 +57,45 @@ header {
 
 .price{
     margin-bottom: 5%;
-}
-
-.p-product{
+    color: grey;
     font-size: 20px;
 }
 
+.p-product{
+    font-size: 18px;
+}
+
+.name-product a {
+    color: orange;
+}
+
+.list-product{
+    margin-bottom: 5%;
+    border-bottom: 0.5px solid grey;
+    padding-bottom: 5%;
+}
+
+footer ul li {
+    list-style: none;
+}
+
+.email{
+    width: 250px;
+  height: 30px;
+  border: solid 1px black;
+  border-radius: 3px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+
+
+.copy{
+    margin-top: 2%;
+    background-color:rgb(3, 35, 65);
+}
 
