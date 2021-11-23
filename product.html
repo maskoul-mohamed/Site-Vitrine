@@ -5,26 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style/product.css">
+    <link rel="stylesheet" href="style/flexboxgrid.css">
 </head>
 <body>
-    <header>
-        <nav>
-            <div>
-                <ul>
-                    <li>Home</li>
-                    <li>Products</li>
-                    <li>Contact us </li>
-                    <li>About us</li>
-                </ul>
-            </div>
-            <div>
-                <img src="" alt="LOGO">
-            </div>
+    <header class="container row">
+        <nav class="col-xs-6 col-sm-6 col-lg-6">
+            <ul>
+                <li><a href="link">Home</a></li>
+                <li><a href="link">Products</a></li>
+                <li><a href="link">Contact us</a></li>
+                <li><a href="link">About us</a></li>
+            </ul>
+        </nav>    
+        <nav class="col-xs-6 col-sm-6 col-lg-6">
+            <img src="" alt="LOGO">
         </nav>
     </header>
     <main>
-        <section>
-            <h1>Product</h1>
+        <section class="col-xs-12 col-sm-12 col-lg-12">
+            <h1 class="product">Product</h1>
             <ul>
                 <li>Home</li>
                 <li>Product</li>
@@ -74,6 +74,6 @@
             </div>
         </article>
     </main>
-    
+
 </body>
 </html>
