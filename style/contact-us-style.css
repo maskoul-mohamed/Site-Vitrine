@@ -1,0 +1,18 @@
+form{
+    box-sizing: border-box;
+    background-color: black;
+    padding-left: 52px;
+   padding-right: 59px;
+   padding-top: 134px;
+   width: 519px;
+   height: 437px;
+   display: flex;   
+ flex-direction: column;
+ justify-content: space-between;
+   
+}
+.form-nom{
+    margin-top: 20px;
+    font-size: 12px;
+}
+
