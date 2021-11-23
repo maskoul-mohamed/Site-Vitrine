@@ -1,0 +1,7 @@
+.sticky-adnane {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+    background-color: black;
+    margin: 0px;
+}
