@@ -1,11 +1,21 @@
-.sticky-adnane {
+.sticky {
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
     background-color: black;
-    margin: 0px;
+
 }
 
+.class1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
 .cssucks1 {
     display: flex;
+}
+
+.fuckcss {
+    margin-left: 10px;
+    margin-right: 40px;
 }
