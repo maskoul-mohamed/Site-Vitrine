@@ -12,7 +12,11 @@ form{
    
 }
 .form-nom{
-    margin-top: 20px;
-    font-size: 12px;
+    margin-top: 29px;
+    font-size: 40px;
 }
 
+.form-email{
+    margin-top: 29px;
+    font-size: 40px;
+}
