@@ -1,14 +1,18 @@
 form{
     box-sizing: border-box;
-    background-color: black;
+    background-color: #ffcc00;
+    border: black;
+    border-radius: 20px;
     padding-left: 52px;
    padding-right: 59px;
-   padding-top: 134px;
+   padding-top: 150px;
    width: 519px;
-   height: 437px;
+   height: 500px;
    display: flex;   
  flex-direction: column;
  justify-content: space-between;
+ text-align: center;
+ 
    
 }
 .form-nom{
@@ -19,4 +23,23 @@ form{
 .form-email{
     margin-top: 29px;
     font-size: 40px;
+
+}
+.button{
+
+ margin-top: 29px;
+ margin-bottom: 20px;
+
+text-align: center;
+}
+.message{
+    margin-top: 29px;
+}
+
+.right{
+
+  float: right;
+  
+  margin-right: 12px;
+
 }
