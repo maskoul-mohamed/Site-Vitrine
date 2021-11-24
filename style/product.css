@@ -22,6 +22,10 @@ header {
       cursor: pointer;
   }
 
+  .logo {
+      width: 100px;
+  }
+
   section{
       margin-top: 5%;
       text-align: center;
