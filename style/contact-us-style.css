@@ -15,6 +15,7 @@ form{
  
    
 }
+
 .form-nom{
     margin-top: 29px;
     font-size: 40px;
@@ -55,8 +56,126 @@ text-align: center;
 
 }
 
+.div-map{ 
+    box-sizing: border-box;
+   background-color: #ffcc00;
+   border: solid 3px;
+   border-radius: 20px;
+   padding-left: 52px;
+  padding-right: 59px;
+  padding-top: 50px;
+  width: 200px;
+  height: 200px;
+  display: flex;   
+flex-direction: column;
+justify-content: space-between;
+text-align: center;
+
+}
+
 
 .map{
-    height: 50px;
-    width: 50px;
+    height: 90px;
+    width: 90px;
+    text-align: center;
+   
+}
+.tanger{
+
+    font-size: 25px;
+    margin-top: 12px;
+}
+
+
+.div-tele{ 
+    box-sizing: border-box;
+   background-color: #ffcc00;
+   border: solid 3px;
+   border-radius: 20px;
+   padding-left: 52px;
+  padding-right: 59px;
+  padding-top: 50px;
+  width: 200px;
+  height: 200px;
+  display: flex;   
+flex-direction: column;
+justify-content: space-between;
+text-align: center;
+
+
+}
+
+
+.tele{
+    height: 90px;
+    width: 90px;
+    text-align: center;
+   
+}
+
+.div-fix{ 
+    box-sizing: border-box;
+   background-color: #ffcc00;
+   border: solid 3px;
+   border-radius: 20px;
+   padding-left: 52px;
+  padding-right: 59px;
+  padding-top: 50px;
+  width: 200px;
+  height: 200px;
+  display: flex;   
+flex-direction: column;
+justify-content: space-between;
+text-align: center;
+margin-top: 100px;
+}
+
+
+.fix{
+    height: 90px;
+    width: 90px;
+    text-align: center;
+   
+}
+
+.left{
+    width: 48%;
+    max-width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+ justify-content: space-between;
+ margin-top: 50px;
+ 
+
+}
+
+
+.div-email{ 
+    box-sizing: border-box;
+   background-color: #ffcc00;
+   border: solid 3px;
+   border-radius: 20px;
+   padding-left: 52px;
+  padding-right: 59px;
+  padding-top: 50px;
+  width: 200px;
+  height: 200px;
+  display: flex;   
+flex-direction: column;
+justify-content: space-between;
+text-align: center;
+margin-top: 100px;
+}
+
+
+.email-cont{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+   
+}
+
+.mail{
+
+margin-left: -22px;
 }
