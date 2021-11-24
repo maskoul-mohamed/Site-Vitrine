@@ -79,20 +79,31 @@ footer ul li {
     list-style: none;
 }
 
-.email{
-    width: 250px;
-  height: 30px;
-  border: solid 1px black;
-  border-radius: 3px;
-}
+ form .email{
+    width: 300px;
+    height: 30px;
+    border: solid 1px black;
+    border-radius: 3px;
+  }
+
+  form .sing-up{
+    height: 30px;
+        margin: 30px;
+        border-radius: 3px;
+        border-style: none;
+        cursor: pointer;
+        background-color: orange;
+        color: white;
+        text-align: center;
+  }
+  
+  
 
 footer{
     background-color: black;
     color: white;
-    width: 100%;
+    padding: 50px;
 }
-
-
 
 .copy{
     margin-top: 2%;
