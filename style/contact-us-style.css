@@ -25,7 +25,7 @@ a{
 
 form{
     box-sizing: border-box;
-    background-color: #ffcc00;
+    background-color: orange;
     border: solid 3px;
     border-radius: 20px;
     padding-left: 52px;
@@ -84,7 +84,7 @@ text-align: center;
 
 .div-map{ 
     box-sizing: border-box;
-   background-color: #ffcc00;
+   background-color: orange;
    border: solid 3px;
    border-radius: 20px;
    padding-left: 52px;
@@ -116,7 +116,7 @@ margin-top: 20px;
 
 .div-tele{ 
     box-sizing: border-box;
-   background-color: #ffcc00;
+   background-color:orange;
    border: solid 3px;
    border-radius: 20px;
    padding-left: 52px;
@@ -142,7 +142,7 @@ margin-top: 20px;
 
 .div-fix{ 
     box-sizing: border-box;
-   background-color: #ffcc00;
+   background-color: orange;
    border: solid 3px;
    border-radius: 20px;
    padding-left: 52px;
@@ -179,7 +179,7 @@ margin-top: 100px;
 
 .div-email{ 
     box-sizing: border-box;
-   background-color: #ffcc00;
+   background-color: orange;
    border: solid 3px;
    border-radius: 20px;
    padding-left: 52px;
